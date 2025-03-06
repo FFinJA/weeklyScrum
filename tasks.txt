@@ -13,4 +13,20 @@ Week 2
 20250213 - Tutorial videos.
 
 Week 3
-20250218 - Morning meeting and database tutorials.
+20250218 - Modified Email functions.
+20250219 - Modified Email functions.
+20250220 - Modified Email functions.
+20250221 - Modified Email functions.
+
+Week 4
+20250224 - Code review.
+20250225 - Code review.
+20250226 - Code review.
+20250227 - Code review.
+20250228 - Code review.
+
+Week 5
+20250303 - Code review.
+20250304 - Code review.
+20250305 - Code review.
+20250306 - Code review.
